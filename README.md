@@ -1,6 +1,6 @@
 ## Hi there, I'm Tanay 👋
 
-💻 Machine Learning & Data Science Enthusiast  
+💻 Artificial intelligence & Data Science Enthusiast  
 📊 Skilled in data preprocessing, model fine-tuning, and visualisation  
 🎯 I’m currently learning Natural Language Processing, Deep Learning, and Data Analytics
 
