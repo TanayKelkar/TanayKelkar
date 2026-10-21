@@ -1,6 +1,6 @@
 ## Hi there, I'm Tanay 👋
 
-💻 AI and Software Engineering enthusiast.
+💻 AI and Software Engineering enthusiast.  
 📊 Skilled in data preprocessing, model fine-tuning, and visualisation  
 🎯 I’m currently pursing my masters degree in computer science from TU Dresden, Germany.
 
