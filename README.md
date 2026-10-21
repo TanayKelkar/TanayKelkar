@@ -1,7 +1,7 @@
 ## Hi there, I'm Tanay 👋
 
 💻 Currently pursuing Master's in Computer Science at TU Dresden with a strong background in AI, NLP, and Data Analytics.  
-📊 Experienced in developing AI & ML pipelines, fine-tuning LLMs/Transformers, building analytical tools, and web data extraction.
+📊 Experienced in developing AI & ML pipelines, fine-tuning LLMs/Transformers, building analytical tools, and web data extraction.  
 🎯 Exploring opportunities in Machine Learning, LLM/RAG systems, and AI Engineering.  
 
 ## 🛠️ Tech Stack
