@@ -1,8 +1,8 @@
 ## Hi there, I'm Tanay 👋
 
-💻 AI and Software Engineering enthusiast.  
-📊 Skilled in data preprocessing, model fine-tuning, and visualisation  
-🎯 I’m currently pursing my masters degree in computer science from TU Dresden, Germany.
+💻 Currently pursuing Master's in Computer Science at TU Dresden with a strong background in AI, NLP, and Data Analytics.  
+📊 Experienced in developing AI & ML pipelines, fine-tuning LLMs/Transformers, building analytical tools, and web data extraction.
+🎯 Exploring opportunities in Machine Learning, LLM/RAG systems, and AI Engineering.  
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, R  
