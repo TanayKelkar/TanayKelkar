@@ -1,8 +1,8 @@
 ## Hi there, I'm Tanay 👋
 
-💻 Artificial intelligence & Data Science Enthusiast  
+💻 AI and Software Engineering enthusiast.
 📊 Skilled in data preprocessing, model fine-tuning, and visualisation  
-🎯 I’m currently learning Natural Language Processing, Deep Learning, and Data Analytics
+🎯 I’m currently pursing my masters degree in computer science from TU Dresden, Germany.
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, R  
